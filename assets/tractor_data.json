@@ -1,0 +1,94 @@
+{
+  "brands": [
+    {
+      "name": "Mahindra",
+      "models": [
+        "Mahindra 475 DI",
+        "Mahindra 585 DI XP Plus",
+        "Mahindra Arjun Novo 605",
+        "Mahindra Yuvo 415 DI"
+      ]
+    },
+    {
+      "name": "John Deere",
+      "models": [
+        "John Deere 5105",
+        "John Deere 5310",
+        "John Deere 5050 D",
+        "John Deere 3028 EN"
+      ]
+    },
+    {
+      "name": "Swaraj",
+      "models": [
+        "Swaraj 744 FE",
+        "Swaraj 735 FE",
+        "Swaraj 963 FE",
+        "Swaraj 742 XT"
+      ]
+    },
+    {
+      "name": "New Holland",
+      "models": [
+        "New Holland 3630 TX Super",
+        "New Holland 3230 NX",
+        "New Holland 5500 Turbo Super",
+        "New Holland Excel 4710"
+      ]
+    },
+    {
+      "name": "Eicher",
+      "models": [
+        "Eicher 380",
+        "Eicher 333",
+        "Eicher 485",
+        "Eicher 551"
+      ]
+    },
+    {
+      "name": "Farmtrac",
+      "models": [
+        "Farmtrac 60 Powermaxx",
+        "Farmtrac 45 Classic",
+        "Farmtrac Atom 26",
+        "Farmtrac Champion 35"
+      ]
+    },
+    {
+      "name": "Kubota",
+      "models": [
+        "Kubota MU5501",
+        "Kubota L3408",
+        "Kubota MU4501",
+        "Kubota A211N"
+      ]
+    },
+    {
+      "name": "Sonalika",
+      "models": [
+        "Sonalika DI 745 III",
+        "Sonalika Tiger 50",
+        "Sonalika Sikander RX 50",
+        "Sonalika DI 35"
+      ]
+    },
+    {
+      "name": "Massey Ferguson",
+      "models": [
+        "Massey Ferguson 1035 DI",
+        "Massey Ferguson 7250 DI Power Up",
+        "Massey Ferguson 241 DI Tonner",
+        "Massey Ferguson 9500 E"
+      ]
+    },
+    {
+      "name": "Powertrac",
+      "models": [
+        "Powertrac Euro 50",
+        "Powertrac 439 Plus",
+        "Powertrac 434 Plus",
+        "Powertrac Euro 60"
+      ]
+    }
+  ]
+}
