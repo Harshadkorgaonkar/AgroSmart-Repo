@@ -1,5 +1,5 @@
 
-![SHAS Banner](image1.png)
+![AgroSmart Banner](Agrosmart.jpeg)
 📌 Project Overview
 
 AgroSmart is a Flutter-based mobile application developed to help farmers sell, buy, and manage agricultural equipment efficiently. The platform connects equipment owners with farmers and provides a simple digital marketplace for agricultural machinery.
