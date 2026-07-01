@@ -106,3 +106,34 @@ Push Notifications
 Equipment Reviews and Ratings
 Admin Panel
 AI-based Equipment Recommendations
+
+<table>
+  <tr>
+    <td><img src="https://github.com/user-attachments/assets/e6ad755a-84ee-4f1b-9cf5-a491e8decf19" width="100%"></td>
+    <td><img src="https://github.com/user-attachments/assets/ceab60bf-6723-49ec-a709-37065a5a49f7" width="100%"></td>
+  </tr>
+
+  <tr>
+    <td><img src="https://github.com/user-attachments/assets/298ddc2e-b04a-4fd3-8408-c4939f4d7bd1" width="100%"></td>
+    <td><img src="https://github.com/user-attachments/assets/d1407f16-240f-4e16-b550-1a9d39a23320" width="100%"></td>
+  </tr>
+
+  <tr>
+    <td><img src="https://github.com/user-attachments/assets/21b72499-1936-45ed-82b0-a46b9b85bfe7" width="100%"></td>
+    <td><img src="https://github.com/user-attachments/assets/1a0e3f9d-dc6b-4e36-aec3-aa04146ddd13" width="100%"></td>
+  </tr>
+
+  <tr>
+    <td><img src="https://github.com/user-attachments/assets/eaf2a6a7-df74-4276-a404-602b0ce2405b" width="100%"></td>
+    <td><img src="https://github.com/user-attachments/assets/642d2212-7f15-4228-b575-c1f98d615c60" width="100%"></td>
+  </tr>
+
+  <tr>
+    <td><img src="https://github.com/user-attachments/assets/936ba26d-0288-44e4-aae9-12456ae47870" width="100%"></td>
+    <td></td>
+  </tr>
+</table>
+
+
+
+
